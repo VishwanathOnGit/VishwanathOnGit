@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @VishwanathOnGit
+- 👋 Hi, I’m Vishwanath
 - 👀 I’m interested in Full Stack Web Development
 - 🌱 I’m currently learning ReactJS and Laravel
 - 📫 How to reach me 
